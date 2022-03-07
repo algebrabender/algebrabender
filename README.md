@@ -1,6 +1,6 @@
 <img src="/header.png"/>
 
-### I am CS student interested in Game Development and Desktop Software Development!
+### I'm CS student interested in Game Development and Desktop Software Development!
 
 - 👩🏻‍💻 Studying at Faculty of Electronic Engineering, University of Niš 
 - 🔭 Currently working on three student projects and two scholarship projects
