@@ -1,4 +1,4 @@
-<img src="header.png/>
+<img src="/header.png"/>
 
 ### I am CS student interested in Game Development and Desktop Software Development!
 
