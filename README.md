@@ -3,7 +3,7 @@
 ### I'm CS student interested in Game Development and Desktop Software Development!
 
 - 👩🏻‍💻 Studying at Faculty of Electronic Engineering, University of Niš 
-- 🔭 Currently working on one student projects and two scholarship projects
+- 🔭 Currently working on one student project and one scholarship project
 - 🎯 ~~Planning~~ Working on Bachelor Thesis on Accessibility in Games/Software
 - 🌱 Currently learning Unity, Unreal Engine, Python
 - 🤔 Alongside Game Development and Desktop Software Development, interested in Design Patterns and Software Engineering in general
