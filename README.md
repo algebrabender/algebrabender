@@ -1,13 +1,13 @@
 <img src="/header.png"/>
 
-### I'm CS student interested in Game Development and Desktop Software Development!
+### I'm CS graduate student interested in Game Development and Desktop Software Development!
 
-- 👩🏻‍💻 Studying at Faculty of Electronic Engineering, University of Niš 
-- 🔭 Currently working on one student project and one scholarship project
-- 🎯 ~~Planning~~ Working on Bachelor Thesis on Accessibility in Games/Software
+- 👩🏻‍💻 Finished Faculty of Electronic Engineering, University of Niš 
+- 🔭 Currently working on one scholarship project and one course project
+- 🎯 ~~Planning~~ ~~Working~~ Worked on Bachelor Thesis on Accessibility in Games/Software
 - 🌱 Currently learning Unity, Unreal Engine, Python
 - 🤔 Alongside Game Development and Desktop Software Development, interested in Design Patterns and Software Engineering in general
-<!-- -📫 How to reach me: -->
+- 📫 How to reach me: https://www.linkedin.com/in/jelenafirulovic/
 
 ### Tech stack and skills
 
