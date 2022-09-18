@@ -5,7 +5,7 @@
 - 👩🏻‍💻 Finished Faculty of Electronic Engineering, University of Niš 
 - 🔭 Currently working on one scholarship project and one personal project
 - 🎯 ~~Planning~~ ~~Working~~ Worked on Bachelor Thesis on Accessibility in Games/Software
-- 🌱 Currently learning Unity, Unreal Engine, Python
+- 🌱 Currently learning Unreal Engine, Python
 - 🤔 Alongside Game Development and Desktop Software Development, interested in Design Patterns and Software Engineering in general
 - 📫 How to reach me: https://www.linkedin.com/in/jelenafirulovic/, jelena.firulovic@gmail.com
 
